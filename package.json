@@ -1,0 +1,15 @@
+{
+  "name": "github-pages-website",
+  "version": "1.0.0",
+  "description": "A GitHub Pages website to showcase my role and impact based on my resume summary.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "author": "Saumya Rastogi",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
